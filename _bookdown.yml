@@ -1,6 +1,6 @@
-#output_dir:"docs"
-#book_filename:"ggplo2-2"
-
+#
+#book_filename:"ggplo2_pt"
+output_dir: "docs2"
 delete_merged_file: true
 language:
   ui:
