@@ -1,0 +1,7 @@
+#output_dir:"docs"
+#book_filename:"ggplo2-2"
+
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
